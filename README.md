@@ -18,7 +18,7 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://twitter.com/aggarwalch54796" target="_blank">
+  <a href="https://twitter.com/chillii_06" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
   </a>
   &nbsp;&nbsp;
