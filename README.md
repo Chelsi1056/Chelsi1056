@@ -1,68 +1,35 @@
-<h1 align="center">Hi 🙋🏻‍♀️, I'm Chelsi Aggarwal</h1>
-<h3 align="center">A Passionate Learner from India</h3>
+# 👋 Welcome to My Developer Terminal
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+```text
+ ██████╗██╗  ██╗███████╗██╗     ███████╗██╗
+██╔════╝██║  ██║██╔════╝██║     ██╔════╝██║
+██║     ███████║█████╗  ██║     ███████╗██║
+██║     ██╔══██║██╔══╝  ██║     ╚════██║██║
+╚██████╗██║  ██║███████╗███████╗███████║██║
+ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝
 
----
+──────────────────────────────────────────────
 
-### 🚀 About Me
+OS.............. Windows 11
+Kernel.......... MirAI AI Builder
+Role............ AIML Student
+Institute....... VIPS-TC, GGSIPU
+Languages....... Python, JavaScript, C++
+Frameworks...... Streamlit, React, Node.js
+Database........ MongoDB, MySQL
+Learning........ AI, NLP, DSA
+Projects........ Machine Learning, Web Development
+Editor.......... VS Code
+GitHub.......... github.com/Chelsi1056
+Email........... chelsiaggarwal1056@gmail.com
 
-- 🔭 I’m currently working on **Machine Learning Projects**
-- 🌱 I’m currently learning **NLP and DSA**
-- 💬 Ask me about **Machine Learning**
+──────────────────────────────────────────────
+```
 
----
+## 📊 GitHub Stats
 
-### 🌐 Connect with Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chelsi1056&show_icons=true&theme=tokyonight)
 
-<h3 align="center">🌐 Connect with Me</h3>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chelsi1056&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <a href="https://twitter.com/chillii_06" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/chelsi-aggarwal-219459291/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-
-</p>
-
----
-
-### 🤖 ML / Data Science Tools
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/>
-
-</p>
-
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chelsi1056&theme=tokyonight)
